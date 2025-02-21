@@ -16,9 +16,11 @@ This repository is designed to:
 ---
 
 ## 📂 **Contents**
+
 - As of now this Repository doesn't contain most of the stuff but i will be try my best to add it on the daily basis
 
 ### 1️⃣ **Data Structures**
+
 - Arrays
 - Linked Lists
 - Stacks & Queues
@@ -29,6 +31,7 @@ This repository is designed to:
 - Tries
 
 ### 2️⃣ **Algorithms**
+
 - Sorting Algorithms (Bubble, Merge, Quick Sort, etc.)
 - Searching Algorithms (Binary Search, Ternary Search)
 - Greedy Algorithms
@@ -38,10 +41,12 @@ This repository is designed to:
 - Graph Algorithms (Dijkstra, Floyd-Warshall, MST)
 
 ### 3️⃣ **Complexity Analysis**
+
 - Time Complexity
 - Space Complexity
 
 ### 4️⃣ **Practice Problems**
+
 - Beginner to Advanced level problems.
 - Solutions with explanations for better understanding.
 
@@ -50,9 +55,11 @@ This repository is designed to:
 ## 🚀 **How to Use This Repository**
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/learning-dsa.git
    ```
+
 2. Navigate through the folders for specific topics or implementations.
 3. Run the code examples provided for hands-on practice.
 4. Try solving the practice problems before referring to the solutions.
@@ -83,4 +90,3 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 ---
 
 Happy Learning! 🚀
-
